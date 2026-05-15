@@ -1,1 +1,3 @@
 Jonathan made a txt
+
+Jonathan made a change in new_branch_1
